@@ -1,7 +1,6 @@
 Cellular Free Space Routing
 ====================
 
-# Cellular Free Space Routing Package
 
 This python package intends to provide certain functionalitites for constrained free space routing in a simple, clean and efficient implementation. 
 
