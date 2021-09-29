@@ -30,10 +30,10 @@ and start playing around.
 
 Eight different ways of crossing this hall with obstacles.
 
-![](output_5_0.png)
-![](output_5_1.png)
-![](output_5_2.png)
-![](output_5_3.png)
-![](output_5_4.png)
-![](output_5_6.png)
-![](output_5_8.png)
+![](docs/output_5_0.png)
+![](docs/output_5_1.png)
+![](docs/output_5_2.png)
+![](docs/output_5_3.png)
+![](docs/output_5_4.png)
+![](docs/output_5_6.png)
+![](docs/output_5_8.png)
